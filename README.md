@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-<!--
-**DoveBoy/DoveBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eugene and I'm a Software Developer.
 
-Here are some ideas to get you started:
+#### My Contributions:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- [<img src='https://avatars.githubusercontent.com/u/95204649?s=20&v=4'> FerretDB](https://github.com/FerretDB/FerretDB/commits?author=ekalinin)
+- [<img src='https://avatars.githubusercontent.com/u/6748139?s=20&v=4'>  CockroachDB](https://github.com/cockroachdb/cockroach/commits?author=ekalinin)
+- [<img src='https://avatars.githubusercontent.com/u/11855343?s=20&v=4'> Go](https://github.com/pingcap/tidb/commits?author=ekalinin)
+- [<img src='https://avatars.githubusercontent.com/u/11855343?s=20&v=4'> MySQL Compatible SQL Parser](https://github.com/pingcap/parser/commits?author=ekalinin)
+- [<img src='https://avatars.githubusercontent.com/u/13958706?s=20&v=4'> Badger](https://github.com/dgraph-io/badger/commits?author=ekalinin)
+- [<img src='https://avatars.githubusercontent.com/u/13629408?s=20&v=4'> Minikube](https://github.com/kubernetes/minikube/commits?author=ekalinin)
+- and a bit of [<img src='https://avatars.githubusercontent.com/u/4314092?s=20&v=4'>go](https://github.com/golang/go/commits?author=ekalinin)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yokiweb&show_icons=true&theme=vue-dark)](https://github.com/yokiweb)
+#### My Stats:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiweb&repo=yaoyaoshop)](https://github.com/yokiweb)
+| <a href="#"><img align="center" src="https://github-readme-stats-six-seven.vercel.app/api?username=ekalinin&show_icons=true&include_all_commits=true&hide_border=true" alt="Eugene's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=ekalinin&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+### My Personal Projects:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokiweb&layout=compact)](https://github.com/yokiweb)
+See `pinned` below. 
